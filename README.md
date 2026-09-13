@@ -37,6 +37,9 @@
 ## 📈 GitHub Stats, Streaks & Activity Graph
 
 ![Activity Graph](https://raw.githubusercontent.com/ishan360tf/ishan360tf/output/activity-graph.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan360tf&theme=tokyonight" alt="Ishan's GitHub Streak" width="48%" />
