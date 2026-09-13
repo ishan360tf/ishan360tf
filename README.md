@@ -40,11 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan360tf&theme=tokyonight" alt="Ishan's GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishan360tf&show_icons=true&theme=tokyonight&count_private=true" alt="Ishan's GitHub Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan360tf&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
 </p>
 
 ---
