@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats, Streaks & Activity Graph
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishangidwani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://raw.githubusercontent.com/ishan360tf/ishan360tf/output/activity-graph.svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan360tf&theme=tokyonight" alt="Ishan's GitHub Streak" width="48%" />
